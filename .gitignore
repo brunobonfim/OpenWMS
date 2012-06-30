@@ -9,3 +9,7 @@ TestResults
 _ReSharper.OpenWMS
 
 *.suo
+
+#NuGet Packages
+packages
+!packages/repositories.config
